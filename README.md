@@ -1,6 +1,6 @@
 # Siegelune: Castle Destroyer
 
-A 3D siege game for Android: build a castle on wheels, put your crew inside and bring down the enemy's walls. Plays offline, no ads.
+A 3D siege game for Android: build a castle on wheels, put your crew inside and bring down the enemy's walls. Plays offline.
 
 [Türkçe](#türkçe) · [Privacy policy](privacy.md)
 
@@ -29,13 +29,13 @@ A 3D siege game for Android: build a castle on wheels, put your crew inside and 
 - **12 levels in 3 worlds:** Golden Slopes, Glacier Peaks and Ember Storm, up to the Last Castle. Then the Trophy Trail: endless duels against AI rivals across a series of arenas.
 - **Made for phones:** Battery Saver or High graphics. Plays offline, and progress is saved on your phone. English and Turkish; the game follows your phone's language and you can change it in Settings.
 
-The game has no ads and no in-app purchases.
+The game is free and contains ads: an occasional full-screen ad between battles. Rewarded ads are optional and give extra gold. A one-time "Remove Ads" purchase removes the full-screen ads.
 
 ## Support
 
 passlune.app@gmail.com
 
-Built with Godot Engine and Jolt Physics (MIT license). Fonts: Cinzel and Alegreya Sans (SIL Open Font License 1.1). All models, textures, sounds and music were generated in code for this game.
+Built with Godot Engine, Jolt Physics, Poing Godot AdMob and Godot Google Play Billing (MIT license). Fonts: Cinzel and Alegreya Sans (SIL Open Font License 1.1). All models, textures, sounds and music were generated in code for this game.
 
 This repository holds the documentation only; the source code is not published here.
 
@@ -43,7 +43,7 @@ This repository holds the documentation only; the source code is not published h
 
 ## Türkçe
 
-Android için 3D kuşatma oyunu: tekerlekli kaleni kur, birliğini içine yerleştir, düşmanın surlarını yerle bir et. İnternetsiz oynanır, reklam yok.
+Android için 3D kuşatma oyunu: tekerlekli kaleni kur, birliğini içine yerleştir, düşmanın surlarını yerle bir et. İnternetsiz oynanır.
 
 [Gizlilik politikası](privacy.md#türkçe)
 
@@ -62,12 +62,12 @@ Android için 3D kuşatma oyunu: tekerlekli kaleni kur, birliğini içine yerle�
 - **3 dünyada 12 bölüm:** Altın Yamaçlar, Buzul Zirveler ve Kor Fırtınası, Son Kale'ye kadar. Ardından Kupa Yolu: arena arena yapay zekâ rakiplerle bitmeyen düellolar.
 - **Telefonlar için:** Pil Dostu ya da Yüksek grafik. İnternetsiz oynanır, ilerlemen telefonunda saklanır. Türkçe ve İngilizce; oyun telefonunun dilini izler, Ayarlar'dan değiştirebilirsin.
 
-Oyunda reklam ve uygulama içi satın alma yoktur.
+Oyun ücretsizdir ve reklam içerir: savaş aralarında seyrek bir tam ekran reklam. Ödüllü reklamlar isteğe bağlıdır ve ek altın verir. Tek seferlik "Reklamları Kaldır" satın alımı tam ekran reklamları kaldırır.
 
 ### Destek
 
 passlune.app@gmail.com
 
-Godot Engine ve Jolt Physics ile yapıldı (MIT lisansı). Yazı tipleri: Cinzel ve Alegreya Sans (SIL Open Font License 1.1). Bütün modeller, dokular, sesler ve müzik bu oyun için kodla üretildi.
+Godot Engine, Jolt Physics, Poing Godot AdMob ve Godot Google Play Billing ile yapıldı (MIT lisansı). Yazı tipleri: Cinzel ve Alegreya Sans (SIL Open Font License 1.1). Bütün modeller, dokular, sesler ve müzik bu oyun için kodla üretildi.
 
 Bu depoda yalnızca belgeler bulunur; kaynak kod burada yayımlanmaz.
