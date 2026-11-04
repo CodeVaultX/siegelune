@@ -20,7 +20,15 @@ Siegelune: Castle Destroyer is a game for Android. We have no accounts and no se
 
 The game shows ads from **Google AdMob**: an occasional full-screen ad between battles, and optional rewarded ads that you can choose to watch for extra gold. Ad content is limited to the "T" (teen) rating.
 
-To show ads, measure them and prevent fraud, Google and its advertising partners may process information such as the device type, operating system and app version, IP address (for approximate location), ad views and taps, and the Android Advertising ID. Ads may be personalized where this is allowed.
+For advertising, analytics and fraud prevention, the Google Mobile Ads SDK in the game automatically collects and shares information with Google and its advertising partners. This includes:
+
+- IP address, which may be used to estimate your general location
+- How you use the game and its ads, such as app launches, taps and video views
+- Diagnostic information, such as app launch time, hang rate and energy use
+- Device and account identifiers, such as the Android Advertising ID, the app set ID and, if applicable, other identifiers tied to accounts signed in on the device
+- Device type, operating system and app version
+
+This information is encrypted in transit. Ads may be personalized where this is allowed.
 
 - **In the European Economic Area, the UK and Switzerland**, the game asks for your consent the first time you open it. You can change your choice at any time in **Settings → Privacy Options**.
 - **Everywhere**, you can reset or delete your Advertising ID in your phone's Android settings.
@@ -74,7 +82,15 @@ Siegelune: Kale Yıkıcı bir Android oyunudur. Hesap ve sunucumuz yok; ad, e-po
 
 Oyun **Google AdMob** reklamları gösterir: savaş aralarında seyrek bir tam ekran reklam ve istersen ek altın için izleyebileceğin ödüllü reklamlar. Reklam içeriği "T" (gençlere uygun) derecesiyle sınırlıdır.
 
-Google ve reklam ortakları, reklamı göstermek, ölçmek ve dolandırıcılığı önlemek için cihaz türü, işletim sistemi ve uygulama sürümü, IP adresi (yaklaşık konum için), reklam görüntüleme ve dokunmaları ile Android Reklam Kimliği gibi bilgileri işleyebilir. İzin verilen yerlerde reklamlar kişiselleştirilebilir.
+Oyundaki Google Mobile Ads SDK'sı reklam, analiz ve dolandırıcılığı önleme amacıyla bazı bilgileri otomatik olarak toplar ve Google ile reklam ortaklarıyla paylaşır. Bunlar şunları kapsar:
+
+- Genel konumunu tahmin etmek için kullanılabilen IP adresi
+- Oyunu ve reklamları nasıl kullandığın: uygulama açılışları, dokunmalar ve video izlemeleri gibi
+- Tanılama bilgileri: uygulamanın açılış süresi, takılma oranı ve enerji kullanımı gibi
+- Cihaz ve hesap kimlikleri: Android Reklam Kimliği, uygulama grubu kimliği ve varsa cihazda oturum açmış hesaplara bağlı diğer kimlikler
+- Cihaz türü, işletim sistemi ve uygulama sürümü
+
+Bu bilgiler aktarım sırasında şifrelenir. İzin verilen yerlerde reklamlar kişiselleştirilebilir.
 
 - **Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de** oyun, ilk açılışta iznini ister. Seçimini istediğin zaman **Ayarlar → Gizlilik Seçenekleri** bölümünden değiştirebilirsin.
 - **Her yerde** Reklam Kimliği'ni telefonunun Android ayarlarından sıfırlayabilir ya da silebilirsin.
