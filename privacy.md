@@ -4,7 +4,7 @@ title: Siegelune — Privacy Policy
 
 # Siegelune — Privacy Policy
 
-*Last updated: November 4, 2026*
+*Last updated: November 6, 2026*
 
 [Türkçe](#türkçe)
 
@@ -18,7 +18,7 @@ Siegelune: Castle Destroyer is a game for Android. We have no accounts and no se
 
 ## Ads
 
-The game shows ads from **Google AdMob**: an occasional full-screen ad between battles, and optional rewarded ads that you can choose to watch for extra gold. Ad content is limited to the "T" (teen) rating.
+The game shows ads from **Google AdMob**: an occasional full-screen ad between battles, and optional rewarded ads that you can choose to watch for extra gold. Ad content is limited to the "G" (general audiences) rating.
 
 For advertising, analytics and fraud prevention, the Google Mobile Ads SDK in the game automatically collects and shares information with Google and its advertising partners. This includes:
 
@@ -68,7 +68,7 @@ passlune.app@gmail.com
 
 ## Türkçe
 
-*Son güncelleme: 4 Kasım 2026*
+*Son güncelleme: 6 Kasım 2026*
 
 Siegelune: Kale Yıkıcı bir Android oyunudur. Hesap ve sunucumuz yok; ad, e-posta ya da başka bir kişisel bilgi asla istemiyoruz. Telefonundan çıkan tek veri, reklamlar ve Google Play satın almaları için Google'a gider.
 
@@ -80,7 +80,7 @@ Siegelune: Kale Yıkıcı bir Android oyunudur. Hesap ve sunucumuz yok; ad, e-po
 
 ### Reklamlar
 
-Oyun **Google AdMob** reklamları gösterir: savaş aralarında seyrek bir tam ekran reklam ve istersen ek altın için izleyebileceğin ödüllü reklamlar. Reklam içeriği "T" (gençlere uygun) derecesiyle sınırlıdır.
+Oyun **Google AdMob** reklamları gösterir: savaş aralarında seyrek bir tam ekran reklam ve istersen ek altın için izleyebileceğin ödüllü reklamlar. Reklam içeriği "G" (genel izleyici, her yaşa uygun) derecesiyle sınırlıdır.
 
 Oyundaki Google Mobile Ads SDK'sı reklam, analiz ve dolandırıcılığı önleme amacıyla bazı bilgileri otomatik olarak toplar ve Google ile reklam ortaklarıyla paylaşır. Bunlar şunları kapsar:
 
