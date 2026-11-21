@@ -33,7 +33,7 @@ The game is free and contains ads: an occasional full-screen ad between battles.
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Built with Godot Engine, Jolt Physics, Poing Godot AdMob and Godot Google Play Billing (MIT license). Fonts: Cinzel and Alegreya Sans (SIL Open Font License 1.1). All models, textures, sounds and music were generated in code for this game.
 
@@ -66,7 +66,7 @@ Oyun ücretsizdir ve reklam içerir: savaş aralarında seyrek bir tam ekran rek
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Godot Engine, Jolt Physics, Poing Godot AdMob ve Godot Google Play Billing ile yapıldı (MIT lisansı). Yazı tipleri: Cinzel ve Alegreya Sans (SIL Open Font License 1.1). Bütün modeller, dokular, sesler ve müzik bu oyun için kodla üretildi.
 
